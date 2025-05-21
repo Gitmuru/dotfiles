@@ -1,0 +1,14 @@
+set fish_greeting
+if status is-interactive
+    # Commands to run in interactive sessions can go here
+end
+#starship
+
+ufetch
+starship init fish | source
+alias ls=lsd
+alias cat=bat
+fish_add_path -g -p ~/Documents/development/flutter/bin
+
+
+

@@ -1,0 +1,25 @@
+A new version of Flutter is available!
+
+To update to the latest version, run "flutter upgrade".
+Device daemon started.
+[ERR] Error 1 retrieving device properties for sdk gphone64 x86 64:
+[ERR] adb: device 'emulator-5554' not found
+
+[ERR] Error 1 retrieving device properties for sdk gphone64 x86 64:
+[ERR] adb: device 'emulator-5554' not found
+
+[ERR] Error 1 retrieving device properties for sdk gphone64 x86 64:
+[ERR] adb: device 'emulator-5554' not found
+
+[ERR] Error 1 retrieving device properties for sdk gphone64 x86 64:
+[ERR] adb: device 'emulator-5554' not found
+
+[ERR] Error 1 retrieving device properties for sdk gphone64 x86 64:
+[ERR] adb: device 'emulator-5554' not found
+
+Error detected in pubspec.yaml:
+[ERR] Error on line 33, column 21: Mapping values are not allowed here. Did you miss a colon earlier?
+   ╷
+33 │      cupertino_icons: ^1.0.2
+   │                     ^
+   ╵

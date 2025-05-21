@@ -1,0 +1,44 @@
+[flutter] flutter doctor -v
+[!] Flutter (Channel stable, 3.29.3, on Void Linux 6.12.28_1, locale en_US.UTF-8) [128ms]
+    • Flutter version 3.29.3 on channel stable at /home/muru/Documents/development/flutter
+    ! The flutter binary is not on your path. Consider adding /home/muru/Documents/development/flutter/bin to your path.
+    ! The dart binary is not on your path. Consider adding /home/muru/Documents/development/flutter/bin to your path.
+    • Upstream repository https://github.com/flutter/flutter.git
+    • Framework revision ea121f8859 (5 weeks ago), 2025-04-11 19:10:07 +0000
+    • Engine revision cf56914b32
+    • Dart version 3.7.2
+    • DevTools version 2.42.3
+    • If those were intentional, you can disregard the above warnings; however it is recommended to use "git" directly to perform update checks and upgrades.
+
+[!] Android toolchain - develop for Android devices (Android SDK version 35.0.1) [502ms]
+    • Android SDK at /home/muru/Android/Sdk
+    • Platform android-35, build-tools 35.0.1
+    • Java binary at: /usr/lib/jvm/default-jdk/bin/java
+      This JDK is specified by the JAVA_HOME environment variable.
+      To manually set the JDK path, use: `flutter config --jdk-dir="path/to/jdk"`.
+    ✗ Could not determine java version
+    ✗ Android license status unknown.
+      Run `flutter doctor --android-licenses` to accept the SDK licenses.
+      See https://flutter.dev/to/linux-android-setup for more details.
+
+[✗] Chrome - develop for the web (Cannot find Chrome executable at google-chrome) [35ms]
+    ! Cannot find Chrome. Try setting CHROME_EXECUTABLE to a Chrome executable.
+
+[✓] Linux toolchain - develop for Linux desktop [489ms]
+    • clang version 17.0.6
+    • cmake version 3.30.1
+    • ninja version 1.12.1
+    • pkg-config version 0.29.2
+
+[!] Android Studio (not installed) [33ms]
+    • Android Studio not found; download from https://developer.android.com/studio/index.html
+      (or visit https://flutter.dev/to/linux-android-setup for detailed instructions).
+
+[✓] Connected device (1 available) [251ms]
+    • Linux (desktop) • linux • linux-x64 • Void Linux 6.12.28_1
+
+[✓] Network resources [2.0s]
+    • All expected network resources are available.
+
+! Doctor found issues in 4 categories.
+exit code 0

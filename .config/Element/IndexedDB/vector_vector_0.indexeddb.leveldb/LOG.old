@@ -1,0 +1,54 @@
+2025/05/15-14:36:41.412 5d6a Reusing MANIFEST /home/muru/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/15-14:36:41.412 5d6a Recovering log #3
+2025/05/15-14:36:41.412 5d6a Reusing old log /home/muru/.config/Element/IndexedDB/vector_vector_0.indexeddb.leveldb/000003.log 
+2025/05/15-14:36:42.193 6da4 Level-0 table #5: started
+2025/05/15-14:36:42.194 6da4 Level-0 table #5: 1772 bytes OK
+2025/05/15-14:36:42.196 6da4 Delete type=0 #3
+2025/05/15-14:36:42.196 6da1 Manual compaction at level-0 from '\x00\x02\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x03\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-14:36:42.197 6da4 Level-0 table #7: started
+2025/05/15-14:36:42.198 6da4 Level-0 table #7: 565 bytes OK
+2025/05/15-14:36:42.199 6da4 Delete type=0 #4
+2025/05/15-14:36:42.199 6da1 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-14:36:42.200 6da1 Level-0 table #9: started
+2025/05/15-14:36:42.200 6da1 Level-0 table #9: 464 bytes OK
+2025/05/15-14:36:42.201 6da1 Delete type=0 #6
+2025/05/15-14:36:42.201 6da1 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 152 : 0
+2025/05/15-14:36:42.201 6da1 Compacting 1@0 + 1@1 files
+2025/05/15-14:36:42.202 6da1 Generated table #10@0: 14 keys, 504 bytes
+2025/05/15-14:36:42.202 6da1 Compacted 1@0 + 1@1 files => 504 bytes
+2025/05/15-14:36:42.203 6da1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/15-14:36:42.203 6da1 Delete type=2 #9
+2025/05/15-14:36:42.203 5d6b Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 152 : 0 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-14:36:42.665 5d6a Level-0 table #12: started
+2025/05/15-14:36:42.666 5d6a Level-0 table #12: 12033 bytes OK
+2025/05/15-14:36:42.667 5d6a Delete type=0 #8
+2025/05/15-14:36:42.667 5d6a Delete type=2 #7
+2025/05/15-14:36:42.667 5d6a Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 1150 : 1
+2025/05/15-14:36:42.667 5d6a Compacting 1@0 + 1@1 files
+2025/05/15-14:36:42.668 5d6a Generated table #13@0: 551 keys, 6195 bytes
+2025/05/15-14:36:42.668 5d6a Compacted 1@0 + 1@1 files => 6195 bytes
+2025/05/15-14:36:42.669 5d6a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/15-14:36:42.669 5d6a Delete type=2 #12
+2025/05/15-14:36:42.669 5d6a Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 1150 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-14:36:42.715 6da1 Level-0 table #15: started
+2025/05/15-14:36:42.716 6da1 Level-0 table #15: 12592 bytes OK
+2025/05/15-14:36:42.717 6da1 Delete type=0 #11
+2025/05/15-14:36:42.717 6da1 Delete type=2 #10
+2025/05/15-14:36:42.717 5d6a Manual compaction at level-0 from '\x00\x08\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at '\x00\x08\x00\x00\x05' @ 1198 : 1
+2025/05/15-14:36:42.717 5d6a Compacting 1@0 + 1@1 files
+2025/05/15-14:36:42.718 5d6a Generated table #16@0: 573 keys, 17984 bytes
+2025/05/15-14:36:42.718 5d6a Compacted 1@0 + 1@1 files => 17984 bytes
+2025/05/15-14:36:42.719 5d6a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/15-14:36:42.719 5d6a Delete type=2 #15
+2025/05/15-14:36:42.719 5d6a Manual compaction at level-0 from '\x00\x08\x00\x00\x05' @ 1198 : 1 .. '\x00\x09\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/05/15-14:36:42.755 6da1 Level-0 table #18: started
+2025/05/15-14:36:42.756 6da1 Level-0 table #18: 716 bytes OK
+2025/05/15-14:36:42.757 6da1 Delete type=0 #14
+2025/05/15-14:36:42.757 6da1 Delete type=2 #13
+2025/05/15-14:36:42.757 5d6a Manual compaction at level-0 from '\x00\x09\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at '\x00\x09\x00\x00\x05' @ 1236 : 1
+2025/05/15-14:36:42.757 5d6a Compacting 1@0 + 1@1 files
+2025/05/15-14:36:42.758 5d6a Generated table #19@0: 583 keys, 18002 bytes
+2025/05/15-14:36:42.758 5d6a Compacted 1@0 + 1@1 files => 18002 bytes
+2025/05/15-14:36:42.758 5d6a compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/15-14:36:42.759 5d6a Delete type=2 #18
+2025/05/15-14:36:42.759 5d6a Manual compaction at level-0 from '\x00\x09\x00\x00\x05' @ 1236 : 1 .. '\x00\x0a\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,13 @@
+2025-05-16 23:21:31.525 [info] Started local extension host with pid 23513.
+2025-05-16 23:21:31.552 [info] Started initializing default profile extensions in extensions installation folder. file:///home/muru/.vscode/extensions
+2025-05-16 23:21:31.667 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 23:21:31.717 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/muru/.vscode/extensions
+2025-05-16 23:21:31.901 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-16 23:21:32.281 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-16 23:21:34.462 [info] [perf] Render performance baseline is 16ms
+2025-05-16 23:27:16.522 [info] Started local extension host with pid 31957.
+2025-05-16 23:27:16.750 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 23:27:16.870 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-16 23:27:17.218 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-16 23:27:19.169 [info] [perf] Render performance baseline is 22ms
+2025-05-16 23:43:40.904 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings

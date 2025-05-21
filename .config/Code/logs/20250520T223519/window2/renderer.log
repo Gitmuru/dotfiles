@@ -1,0 +1,18 @@
+2025-05-20 23:09:26.989 [info] Started local extension host with pid 25818.
+2025-05-20 23:09:27.021 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 23:09:28.205 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-20 23:09:29.694 [info] [perf] Render performance baseline is 27ms
+2025-05-20 23:11:26.397 [error] Error while handling chat request: Canceled: Canceled: Canceled
+    at J0 (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:7:1105)
+    at vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37225
+    at Array.forEach (<anonymous>)
+    at V0t.dispose (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:37165)
+    at bDe.dispose (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3272:48837)
+    at tZs.dispose (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3279:7460)
+    at eZs.stopAllInReverse (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3279:6762)
+    at async Abt.tb (vscode-file://vscode-app/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/workbench.desktop.main.js:3278:16229)
+2025-05-20 23:11:27.165 [info] Started local extension host with pid 28465.
+2025-05-20 23:11:27.212 [info] ComputeTargetPlatform: linux-x64
+2025-05-20 23:11:27.680 [info] ChatSessionStore: Migrating 1 chat sessions from storage service to file system
+2025-05-20 23:11:28.057 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-20 23:11:29.864 [info] [perf] Render performance baseline is 22ms

@@ -1,0 +1,19 @@
+2025-05-21 17:42:57.140 [info] Using the Electron fetcher.
+2025-05-21 17:42:57.140 [info] Initializing Git extension service.
+2025-05-21 17:42:57.913 [info] Successfully activated the vscode.git extension.
+2025-05-21 17:42:57.913 [info] Enablement state of the vscode.git extension: true.
+2025-05-21 17:42:57.913 [info] Successfully registered Git commit message provider.
+2025-05-21 17:43:00.317 [info] Logged in as Gitmuru
+2025-05-21 17:43:01.481 [info] Got Copilot token for Gitmuru
+2025-05-21 17:43:01.745 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-21 17:43:01.745 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-21 17:43:01.771 [info] Registering default platform agent...
+2025-05-21 17:43:01.910 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-21 17:43:02.489 [info] Fetched model metadata in 988ms ca08f4cf-502b-4e45-be29-55aedc612190
+2025-05-21 17:43:02.849 [info] activationBlocker from 'languageModelAccess' took for 4590ms
+2025-05-21 17:46:00.203 [info] message 0 returned. finish reason: [stop]
+2025-05-21 17:46:00.203 [info] request done: requestId: [636b0547-3704-42e0-b089-1832fbafd1c2] model deployment ID: []
+2025-05-21 17:49:10.320 [info] Logged in as Gitmuru
+2025-05-21 17:49:11.338 [info] Got Copilot token for Gitmuru
+2025-05-21 17:49:11.360 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-21 17:49:11.394 [info] BYOK: Copilot Chat known models list fetched successfully.

@@ -1,0 +1,36 @@
+2025-05-20 22:35:23.614 [info] Extension host with pid 7453 started
+2025-05-20 22:35:23.614 [info] Skipping acquiring lock for /home/muru/.config/Code/User/workspaceStorage/97a732ea01107e53dbbb637a4dde3ca3.
+2025-05-20 22:35:24.364 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-20 22:35:24.406 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-20 22:35:24.432 [info] ExtensionService#_doActivateExtension GitHub.copilot-chat, startup: false, activationEvent: 'onChatParticipant:github.copilot.editsAgent'
+2025-05-20 22:35:24.913 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2025-05-20 22:35:25.225 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-20 22:35:25.583 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-20 22:35:25.603 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-20 22:35:25.726 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-20 22:35:25.803 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-20 22:35:25.892 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-20 22:35:26.028 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2025-05-20 22:35:26.430 [info] Eager extensions activated
+2025-05-20 22:35:26.542 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-20 22:35:26.545 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-20 22:35:26.569 [info] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-05-20 22:38:13.645 [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onTerminalQuickFixRequest:ms-vscode.npm-command'
+2025-05-20 22:39:33.799 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-05-20 22:39:43.390 [warning] GitHub.copilot-chat - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.rewrite.review.copilot'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-05-20 22:41:11.767 [warning] GitHub.copilot-chat - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.rewrite.review.copilot'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-05-20 22:41:11.770 [warning] GitHub.copilot-chat - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.rewrite.review.copilot'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-05-20 22:41:11.775 [warning] GitHub.copilot-chat - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.rewrite.review.copilot'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-05-20 22:43:34.280 [info] ExtensionService#_doActivateExtension DiemasMichiels.emulate, startup: false, activationEvent: 'onCommand:emulator.start'
+2025-05-20 23:07:03.297 [warning] GitHub.copilot-chat - Code actions of kind 'quickfix' requested but returned code action is of kind 'refactor.rewrite.review.copilot'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+2025-05-20 23:09:35.641 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-20 23:09:35.772 [error] Error: Channel has been closed
+    at s (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+    at Object.appendLine (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+    at R.logOutputMessage (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+    at R.info (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+    at ChildProcess.<anonymous> (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+    at ChildProcess.emit (node:events:524:28)
+    at Process.ChildProcess._handle.onexit (node:internal/child_process:293:12)
+    at Process.callbackTrampoline (node:internal/async_hooks:130:17)
+2025-05-20 23:09:35.941 [info] Extension host with pid 7453 exiting with code 0

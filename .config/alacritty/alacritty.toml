@@ -1,0 +1,11 @@
+[general]
+import = [
+    "~/.config/alacritty/themes/gotham.toml"
+]
+
+[font]
+
+size=12
+[font.normal]
+family="JetBrainsMono Nerd Font"
+style="Bold"

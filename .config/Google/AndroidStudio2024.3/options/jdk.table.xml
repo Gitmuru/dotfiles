@@ -1,0 +1,207 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Android API 35, extension level 13 Platform" />
+      <type value="Android SDK" />
+      <homePath value="$USER_HOME$/Android/Sdk" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-35/data/annotations.zip!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jar://$USER_HOME$/Android/Sdk/platforms/android-35/android.jar!/" type="simple" />
+            <root url="file://$USER_HOME$/Android/Sdk/platforms/android-35/data/res" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/Android/Sdk/sources/android-35" type="simple" />
+          </root>
+        </sourcePath>
+      </roots>
+      <additional sdk="android-35" />
+    </jdk>
+    <jdk version="2">
+      <name value="21" />
+      <type value="JavaSDK" />
+      <version value="java version &quot;21.0.7&quot;" />
+      <homePath value="/usr/lib/jvm/openjdk21" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.base" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.datatransfer" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.instrument" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.logging" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.management.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.naming" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.net.http" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.prefs" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.scripting" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.se" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.security.sasl" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.smartcardio" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.sql" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.sql.rowset" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.transaction.xa" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.xml" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/java.xml.crypto" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.accessibility" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.attach" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.charsets" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.crypto.ec" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.dynalink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.editpad" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.httpserver" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.incubator.vector" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.ed" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.le" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.opt" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.vm.compiler" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.internal.vm.compiler.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jartool" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.javadoc" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jcmd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jconsole" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jdeps" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jdi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jlink" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jpackage" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jshell" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jsobject" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.jstatd" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.localedata" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.management" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.management.agent" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.management.jfr" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.naming.dns" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.naming.rmi" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.net" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.nio.mapmode" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.random" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.sctp" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.security.auth" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.security.jgss" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.unsupported" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.xml.dom" type="simple" />
+            <root url="jrt:///usr/lib/jvm/openjdk21!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite">
+            <root url="https://docs.oracle.com/en/java/javase/21/docs/api/" type="simple" />
+          </root>
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+    <jdk version="2">
+      <name value="jbr-21" />
+      <type value="JavaSDK" />
+      <version value="JetBrains Runtime 21.0.6" />
+      <homePath value="$APPLICATION_HOME_DIR$/jbr" />
+      <roots>
+        <annotationsPath>
+          <root type="composite">
+            <root url="jar://$APPLICATION_HOME_DIR$/plugins/java/lib/resources/jdkAnnotations.jar!/" type="simple" />
+          </root>
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.base" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.datatransfer" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.instrument" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.logging" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.management.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.naming" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.net.http" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.prefs" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.scripting" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.se" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.security.sasl" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.smartcardio" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.sql.rowset" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.transaction.xa" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/java.xml.crypto" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.accessibility" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.attach" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.charsets" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.compiler" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.cryptoki" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.crypto.ec" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.dynalink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.hotspot.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.httpserver" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.ed" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.jvmstat" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.le" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.opt" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.internal.vm.ci" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jartool" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.javadoc" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jcmd" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdeps" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jdwp.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jlink" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.jsobject" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.localedata" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.agent" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.management.jfr" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.dns" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.naming.rmi" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.net" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.sctp" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.auth" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.security.jgss" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.unsupported.desktop" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.xml.dom" type="simple" />
+            <root url="jrt://$APPLICATION_HOME_DIR$/jbr!/jdk.zipfs" type="simple" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+    </jdk>
+  </component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "settings.editor.selected.configurable": "preferences.language.Kotlin"
+  }
+}]]></component>
+      <component name="WindowStateProjectService">
+        <state x="1100" y="648" key="SettingsEditor" timestamp="1747416243503">
+          <screen x="0" y="0" width="3200" height="2000" />
+        </state>
+        <state x="1100" y="648" key="SettingsEditor/0.0.3200.2000" timestamp="1747416243503" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

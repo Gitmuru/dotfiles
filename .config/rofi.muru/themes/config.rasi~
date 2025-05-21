@@ -1,0 +1,22 @@
+@theme "gruvbox-dark-hard"
+
+configuration {
+  modes: [ combi ];
+  combi-modes: [ window, drun, run ];
+}
+
+
+entry {
+    placeholder: "hai bbe";
+    cursor:pointer;
+}
+element {
+  orientation: horizontal;
+  children: [ element-text, element-icon ];
+  spacing: 5px;
+}
+entry {
+  cursor-color: rgb(220,20,60);
+  cursor-width: 8px;
+  hide-cursor-on-empty: true;
+}

@@ -1,0 +1,35 @@
+2025-05-16 23:21:31.907 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 23:22:30.159 [info] ComputeTargetPlatform: linux-x64
+2025-05-16 23:22:40.997 [info] Getting Manifest... pshershov.blueberry-banana
+2025-05-16 23:22:41.233 [info] Installing extension: pshershov.blueberry-banana {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/muru/.vscode/extensions/extensions.json","path":"/home/muru/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-16 23:22:43.838 [info] Extension signature verification result for pshershov.blueberry-banana: Success. Internal Code: 0. Executed: true. Duration: 1688ms.
+2025-05-16 23:22:43.868 [info] Extracted extension to file:///home/muru/.vscode/extensions/pshershov.blueberry-banana-1.0.2: pshershov.blueberry-banana
+2025-05-16 23:22:43.902 [info] Renamed to /home/muru/.vscode/extensions/pshershov.blueberry-banana-1.0.2
+2025-05-16 23:22:43.918 [info] Extension installed successfully: pshershov.blueberry-banana vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:24:23.059 [info] Getting Manifest... dart-code.flutter
+2025-05-16 23:24:23.354 [info] Installing extension: dart-code.flutter {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/muru/.vscode/extensions/extensions.json","path":"/home/muru/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-16 23:24:24.344 [info] Getting Manifest... dart-code.dart-code
+2025-05-16 23:24:24.534 [info] Installing extension: dart-code.dart-code {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/muru/.vscode/extensions/extensions.json","path":"/home/muru/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"},"installGivenVersion":false,"context":{"dependecyOrPackExtensionInstall":true}}
+2025-05-16 23:24:26.036 [info] Extension signature verification result for dart-code.flutter: Success. Internal Code: 0. Executed: true. Duration: 619ms.
+2025-05-16 23:24:26.046 [info] Extracted extension to file:///home/muru/.vscode/extensions/dart-code.flutter-3.110.0: dart-code.flutter
+2025-05-16 23:24:26.075 [info] Renamed to /home/muru/.vscode/extensions/dart-code.flutter-3.110.0
+2025-05-16 23:24:32.265 [info] Extension signature verification result for dart-code.dart-code: Success. Internal Code: 0. Executed: true. Duration: 753ms.
+2025-05-16 23:24:36.803 [info] Extracted extension to file:///home/muru/.vscode/extensions/dart-code.dart-code-3.110.0: dart-code.dart-code
+2025-05-16 23:24:37.143 [info] Renamed to /home/muru/.vscode/extensions/dart-code.dart-code-3.110.0
+2025-05-16 23:24:37.154 [info] Extension installed successfully: dart-code.flutter vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:24:37.154 [info] Extension installed successfully: dart-code.dart-code vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:34:02.151 [info] Getting Manifest... diemasmichiels.emulate
+2025-05-16 23:34:02.776 [info] Installing extension: diemasmichiels.emulate {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/muru/.vscode/extensions/extensions.json","path":"/home/muru/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-16 23:34:07.963 [info] Extension signature verification result for diemasmichiels.emulate: Success. Internal Code: 0. Executed: true. Duration: 563ms.
+2025-05-16 23:34:07.995 [info] Extracted extension to file:///home/muru/.vscode/extensions/diemasmichiels.emulate-1.7.1: diemasmichiels.emulate
+2025-05-16 23:34:08.026 [info] Renamed to /home/muru/.vscode/extensions/diemasmichiels.emulate-1.7.1
+2025-05-16 23:34:08.038 [info] Extension installed successfully: diemasmichiels.emulate vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:39:59.161 [info] Getting Manifest... toroxx.vscode-avdmanager
+2025-05-16 23:39:59.720 [info] Installing extension: toroxx.vscode-avdmanager {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/muru/.vscode/extensions/extensions.json","path":"/home/muru/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isApplicationScoped":false,"productVersion":{"version":"1.100.2","date":"2025-05-14T21:47:40.416Z"}}
+2025-05-16 23:40:02.118 [info] Extension signature verification result for toroxx.vscode-avdmanager: Success. Internal Code: 0. Executed: true. Duration: 532ms.
+2025-05-16 23:40:02.134 [info] Extracted extension to file:///home/muru/.vscode/extensions/toroxx.vscode-avdmanager-1.4.0: toroxx.vscode-avdmanager
+2025-05-16 23:40:02.164 [info] Renamed to /home/muru/.vscode/extensions/toroxx.vscode-avdmanager-1.4.0
+2025-05-16 23:40:02.172 [info] Extension installed successfully: toroxx.vscode-avdmanager vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:42:52.024 [info] Uninstalling extension from the profile: toroxx.vscode-avdmanager@1.4.0 vscode-userdata:/home/muru/.vscode/extensions/extensions.json
+2025-05-16 23:42:52.062 [info] Marked extension as removed toroxx.vscode-avdmanager-1.4.0
+2025-05-16 23:42:52.705 [info] Successfully uninstalled extension from the profile toroxx.vscode-avdmanager@1.4.0 vscode-userdata:/home/muru/.vscode/extensions/extensions.json

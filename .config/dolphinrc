@@ -1,0 +1,18 @@
+[DetailsMode]
+UseSystemFont=false
+ViewFont=RobotoMono Nerd Font Propo Th [pyrs],9,-1,5,250,1,0,0,0,0,0,0,0,0,0,1,Italic
+
+[General]
+Version=202
+ViewPropsTimestamp=2025,3,24,12,14,39.525
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=22
+
+[MainWindow]
+MenuBar=Disabled
+flavour=Breeze Dark
+
+[PreviewSettings]
+Plugins=audiothumbnail,avif,comicbookthumbnail,cursorthumbnail,djvuthumbnail,ebookthumbnail,exrthumbnail,directorythumbnail,imagethumbnail,jpegthumbnail,kraorathumbnail,windowsexethumbnail,windowsimagethumbnail,opendocumentthumbnail,svgthumbnail,gdk-pixbuf-thumbnailer

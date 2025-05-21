@@ -1,0 +1,7 @@
+[flutter_application_1] dart pub get --no-example
+Error on line 33, column 21 of pubspec.yaml: Mapping values are not allowed here. Did you miss a colon earlier?
+   ╷
+33 │      cupertino_icons: ^1.0.2
+   │                     ^
+   ╵
+exit code 65

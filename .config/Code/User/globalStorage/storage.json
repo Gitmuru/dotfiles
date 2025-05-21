@@ -1,0 +1,78 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "3e414052423294399a80002bf39d1670a546048067f6a8112253a7f1e57f4712",
+    "telemetry.devDeviceId": "bdaaf578-553b-40e6-a1f1-0260d7984c1b",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/muru/AndroidStudioProjects/newproject"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 35,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/muru/Documents/development/flutterproject/flutter_application_1": "__default__profile__",
+            "file:///home/muru/AndroidStudioProjects/newproject": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#17141f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#cccccc",
+            "background": "#17141f",
+            "editorBackground": "#17141f",
+            "titleBarBackground": "#17141f",
+            "activityBarBackground": "#17141f",
+            "sideBarBackground": "#1a1824",
+            "statusBarBackground": "#e6c62f",
+            "statusBarNoFolderBackground": "#e6c62f"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 0,
+            "auxiliarySideBarWidth": 212,
+            "statusBarHeight": 22,
+            "windowBorder": false
+        }
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/muru/AndroidStudioProjects/newproject",
+            "backupPath": "/home/muru/.config/Code/Backups/98301eb48e3bc5165c90e0cd832dbbd5",
+            "uiState": {
+                "mode": 1,
+                "x": 60,
+                "y": 102,
+                "width": 994,
+                "height": 1838
+            }
+        },
+        "openedWindows": []
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 170,
+            "auxiliaryBarWidth": 212,
+            "workspaces": {
+                "97a732ea01107e53dbbb637a4dde3ca3": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": true
+                },
+                "bbbac7dd3581a4d80f21e24dd3c51e4d": {
+                    "sideBarVisible": false,
+                    "auxiliaryBarVisible": true
+                }
+            }
+        }
+    }
+}

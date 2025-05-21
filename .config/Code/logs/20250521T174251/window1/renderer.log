@@ -1,0 +1,6 @@
+2025-05-21 17:42:53.565 [info] Started local extension host with pid 2276.
+2025-05-21 17:42:53.835 [info] ComputeTargetPlatform: linux-x64
+2025-05-21 17:42:58.585 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-21 17:42:59.523 [info] [perf] Render performance baseline is 41ms
+2025-05-21 17:45:12.296 [error] An unknown error occurred. Please consult the log for more details.
+2025-05-21 17:49:19.664 [error] An unknown error occurred. Please consult the log for more details.

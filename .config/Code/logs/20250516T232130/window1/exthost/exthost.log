@@ -1,0 +1,50 @@
+2025-05-16 23:21:32.052 [info] Extension host with pid 23513 started
+2025-05-16 23:21:32.076 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-16 23:21:32.267 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-16 23:21:32.327 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-16 23:21:32.384 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-16 23:21:32.463 [info] Eager extensions activated
+2025-05-16 23:21:32.477 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 23:21:32.479 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 23:22:29.363 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-16 23:22:44.238 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:22:44.247 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:22:44.311 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:24:37.317 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2025-05-16 23:27:15.843 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-16 23:27:15.868 [error] Error: Channel has been closed
+	at s (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+	at Object.appendLine (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+	at R.logOutputMessage (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-16 23:27:16.061 [info] Extension host with pid 23513 exiting with code 0
+2025-05-16 23:27:17.000 [info] Extension host with pid 31957 started
+2025-05-16 23:27:17.001 [info] Skipping acquiring lock for /home/muru/.config/Code/User/workspaceStorage/97a732ea01107e53dbbb637a4dde3ca3.
+2025-05-16 23:27:17.028 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-16 23:27:17.090 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-05-16 23:27:17.092 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:27:17.098 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:27:17.140 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-16 23:27:17.199 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-16 23:27:17.284 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-16 23:27:17.326 [info] Eager extensions activated
+2025-05-16 23:27:17.362 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 23:27:17.364 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-16 23:27:23.079 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2025-05-16 23:27:23.151 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'workspaceContains:flutter.create'
+2025-05-16 23:27:30.251 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2025-05-16 23:28:08.010 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-05-16 23:35:50.444 [info] ExtensionService#_doActivateExtension DiemasMichiels.emulate, startup: false, activationEvent: 'onCommand:emulator.start'
+2025-05-17 00:13:59.817 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-17 00:14:00.476 [error] Error: Channel has been closed
+	at s (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+	at Object.appendLine (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+	at R.logOutputMessage (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-17 00:14:00.657 [info] Extension host with pid 31957 exiting with code 0

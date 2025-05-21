@@ -1,0 +1,27 @@
+2025-05-17 00:31:18.025 [info] Extension host with pid 2388 started
+2025-05-17 00:31:18.025 [info] Skipping acquiring lock for /home/muru/.config/Code/User/workspaceStorage/97a732ea01107e53dbbb637a4dde3ca3.
+2025-05-17 00:31:18.288 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-05-17 00:31:18.341 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-05-17 00:31:18.366 [info] ExtensionService#_doActivateExtension Dart-Code.dart-code, startup: false, activationEvent: 'onLanguage:dart'
+2025-05-17 00:31:18.892 [info] ExtensionService#_doActivateExtension Dart-Code.flutter, startup: false, activationEvent: 'api', root cause: Dart-Code.dart-code
+2025-05-17 00:31:18.896 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2025-05-17 00:31:19.185 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2025-05-17 00:31:19.368 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2025-05-17 00:31:19.824 [info] Eager extensions activated
+2025-05-17 00:31:19.947 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 00:31:20.000 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 00:31:20.181 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-05-17 00:31:20.438 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 00:31:20.451 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2025-05-17 00:31:36.290 [info] ExtensionService#_doActivateExtension vscode.debug-server-ready, startup: false, activationEvent: 'onDebugResolve'
+2025-05-17 00:48:41.740 [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onDebugInitialConfigurations'
+2025-05-17 00:52:03.545 [info] Extension host terminating: renderer closed the MessagePort
+2025-05-17 00:52:03.616 [error] Error: Channel has been closed
+	at s (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2431)
+	at Object.appendLine (file:///home/muru/Documents/vscode/VSCode-linux-x64/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:125:2570)
+	at R.logOutputMessage (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290791)
+	at R.info (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:290524)
+	at ChildProcess.<anonymous> (/home/muru/Documents/vscode/VSCode-linux-x64/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain.js:2:514797)
+	at ChildProcess.emit (node:events:524:28)
+	at ChildProcess._handle.onexit (node:internal/child_process:293:12)
+2025-05-17 00:52:03.804 [info] Extension host with pid 2388 exiting with code 0

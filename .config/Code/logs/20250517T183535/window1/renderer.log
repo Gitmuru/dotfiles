@@ -1,0 +1,12 @@
+2025-05-17 18:35:36.493 [info] Started local extension host with pid 4105.
+2025-05-17 18:35:36.545 [info] ComputeTargetPlatform: linux-x64
+2025-05-17 18:35:37.545 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-05-17 18:35:39.211 [info] [perf] Render performance baseline is 44ms
+2025-05-17 18:45:09.617 [error] spawn xterm ENOENT: Error: spawn xterm ENOENT
+    at ChildProcess._handle.onexit (node:internal/child_process:285:19)
+    at onErrorNT (node:internal/child_process:483:16)
+    at process.processTicksAndRejections (node:internal/process/task_queues:82:21)
+2025-05-17 19:12:13.962 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-05-17 19:12:13.962 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-05-17 19:12:13.990 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-05-17 19:12:13.991 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess

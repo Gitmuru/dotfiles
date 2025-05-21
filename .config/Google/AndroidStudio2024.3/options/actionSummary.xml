@@ -1,0 +1,67 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Android.RunAndroidSdkManager">
+      <i c="1" l="1747416166248" />
+    </e>
+    <e n="AttachDebuggerAction">
+      <i c="1" l="1747416030816" />
+    </e>
+    <e n="CompareTwoFiles">
+      <i c="1" l="1747414437908" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="10" l="1747415989653" />
+    </e>
+    <e n="Exit">
+      <i c="7" l="1747417444257" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1747414238933" />
+    </e>
+    <e n="NewProject">
+      <i c="1" l="1747414242139" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="5" l="1747414788698" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="1" l="1747416162881" />
+    </e>
+    <e n="ShowSettings">
+      <i c="6" l="1747417185700" />
+    </e>
+    <e n="SmartSelect">
+      <i c="5" l="1746946221330" />
+    </e>
+    <e n="TogglePowerSave">
+      <i c="1" l="1747415170725" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerConfigurable$5">
+      <i c="1" l="1747414142765" />
+    </e>
+    <e n="com.intellij.ide.plugins.newui.TabbedPaneHeaderComponent$3">
+      <i c="1" l="1747414140713" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="7" l="1747416157170" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="20" l="1747417442215" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="3" l="1747416154271" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="1" l="1747416158819" />
+    </e>
+    <e n="com.intellij.ui.components.BasicOptionButtonUI$ActionDelegate">
+      <i c="2" l="1747414657108" />
+    </e>
+    <e n="com.intellij.ui.dsl.builder.components.SegmentedButtonAction">
+      <i c="2" l="1747414317384" />
+    </e>
+    <e n="flutter.NewProject">
+      <i c="4" l="1747416281542" />
+    </e>
+  </component>
+</application>

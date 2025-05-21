@@ -1,0 +1,340 @@
+{
+  "version": 3,
+  "requesterUsername": "Gitmuru",
+  "requesterAvatarIconUri": {
+    "$mid": 1,
+    "path": "/u/142246154",
+    "scheme": "https",
+    "authority": "avatars.githubusercontent.com",
+    "query": "v=4"
+  },
+  "responderUsername": "GitHub Copilot",
+  "responderAvatarIconUri": {
+    "id": "copilot"
+  },
+  "initialLocation": "panel",
+  "requests": [
+    {
+      "requestId": "request_db15c60a-6c4d-4bf7-8929-18ac8571791b",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 5
+            },
+            "toolName": "new",
+            "toolId": "copilot_createNewWorkspace",
+            "displayName": "Create New Workspace",
+            "icon": {
+              "id": "new-folder"
+            },
+            "kind": "tool"
+          },
+          {
+            "range": {
+              "start": 4,
+              "endExclusive": 5
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 5,
+              "endLineNumber": 1,
+              "endColumn": 6
+            },
+            "text": " ",
+            "kind": "text"
+          }
+        ],
+        "text": "#new "
+      },
+      "variableData": {
+        "variables": [
+          {
+            "kind": "tool",
+            "id": "copilot_createNewWorkspace",
+            "name": "new",
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "icon": {
+              "id": "new-folder"
+            },
+            "fullName": "Create New Workspace"
+          }
+        ]
+      },
+      "response": [
+        {
+          "kind": "toolInvocationSerialized",
+          "invocationMessage": "Using \"Create New Workspace\"",
+          "isConfirmed": true,
+          "isComplete": true,
+          "toolCallId": "02407624-87ba-448d-80b1-f3a28a6dc4b6",
+          "toolId": "copilot_createNewWorkspace"
+        },
+        {
+          "value": "You have not opened a valid workspace folder in VS Code. Please open an empty folder before continuing so I can assist you further. Let me know once you've done that!",
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_ff91e64a-1983-4dbb-9ed7-1c4ae8b43390",
+      "result": {
+        "timings": {
+          "firstProgress": 26294,
+          "totalElapsed": 26694
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "renderedUserMessage": [
+            {
+              "type": 1,
+              "text": "<userPrompt>\n#new \n</userPrompt>\n"
+            }
+          ],
+          "modelMessageId": "921f38cc-b31e-4e7d-92ce-42d72e6f1f06",
+          "responseId": "05620cb8-1578-4ec3-87b6-4d0936fbda39",
+          "sessionId": "d6d6c864-bbe9-47a5-94f9-ad90ba140ca9",
+          "agentId": "github.copilot.editsAgent"
+        }
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editsAgent",
+        "description": "Edit files in your workspace in agent mode",
+        "when": "config.chat.agent.enabled && !chatAgentModeDisallowed",
+        "metadata": {
+          "themeIcon": {
+            "id": "tools"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "agent",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "panel"
+        ],
+        "modes": [
+          "agent"
+        ],
+        "slashCommands": [],
+        "disambiguation": []
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1747762785956
+    },
+    {
+      "requestId": "request_1423d6af-c0a9-45c9-b4fb-17a6a125d76a",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 3
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 4
+            },
+            "text": "yes",
+            "kind": "text"
+          }
+        ],
+        "text": "yes"
+      },
+      "variableData": {
+        "variables": []
+      },
+      "response": [
+        {
+          "value": "It looks like you confirmed, but there is still no workspace open. Please open a folder in VS Code so I can help you create or work on a project. Once you have a folder open, let me know what you’d like to do next!",
+          "supportThemeIcons": false,
+          "supportHtml": false
+        }
+      ],
+      "responseId": "response_9ad332a8-4efe-4f5b-8831-80c8fa8b55f3",
+      "result": {
+        "timings": {
+          "firstProgress": 1081,
+          "totalElapsed": 1549
+        },
+        "metadata": {
+          "codeBlocks": [],
+          "renderedUserMessage": [
+            {
+              "type": 1,
+              "text": "<userPrompt>\nyes\n</userPrompt>\n"
+            }
+          ],
+          "modelMessageId": "0986fa62-f6bf-4b22-b54c-b09ddecc345c",
+          "responseId": "ecdfcfd5-f680-4724-8824-660227907b24",
+          "sessionId": "d6d6c864-bbe9-47a5-94f9-ad90ba140ca9",
+          "agentId": "github.copilot.editsAgent"
+        }
+      },
+      "followups": [],
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editsAgent",
+        "description": "Edit files in your workspace in agent mode",
+        "when": "config.chat.agent.enabled && !chatAgentModeDisallowed",
+        "metadata": {
+          "themeIcon": {
+            "id": "tools"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "agent",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "panel"
+        ],
+        "modes": [
+          "agent"
+        ],
+        "slashCommands": [],
+        "disambiguation": []
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1747762817937
+    },
+    {
+      "requestId": "request_90c2141c-d3b2-4757-9f23-853048a04930",
+      "message": {
+        "parts": [
+          {
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 1,
+              "endLineNumber": 1,
+              "endColumn": 5
+            },
+            "toolName": "new",
+            "toolId": "copilot_createNewWorkspace",
+            "displayName": "Create New Workspace",
+            "icon": {
+              "id": "new-folder"
+            },
+            "kind": "tool"
+          },
+          {
+            "range": {
+              "start": 4,
+              "endExclusive": 5
+            },
+            "editorRange": {
+              "startLineNumber": 1,
+              "startColumn": 5,
+              "endLineNumber": 1,
+              "endColumn": 6
+            },
+            "text": " ",
+            "kind": "text"
+          }
+        ],
+        "text": "#new "
+      },
+      "variableData": {
+        "variables": [
+          {
+            "kind": "tool",
+            "id": "copilot_createNewWorkspace",
+            "name": "new",
+            "range": {
+              "start": 0,
+              "endExclusive": 4
+            },
+            "icon": {
+              "id": "new-folder"
+            },
+            "fullName": "Create New Workspace"
+          }
+        ]
+      },
+      "response": [
+        {
+          "kind": "toolInvocationSerialized",
+          "invocationMessage": "Using \"Create New Workspace\"",
+          "isConfirmed": true,
+          "isComplete": true,
+          "toolCallId": "b9da2d55-99dd-454f-98c9-6287d1e8de56",
+          "toolId": "copilot_createNewWorkspace"
+        }
+      ],
+      "responseId": "response_2c84b3f7-de71-46a3-aaa5-b5dc4cc2ade1",
+      "isCanceled": false,
+      "agent": {
+        "extensionId": {
+          "value": "GitHub.copilot-chat",
+          "_lower": "github.copilot-chat"
+        },
+        "publisherDisplayName": "GitHub",
+        "extensionPublisherId": "GitHub",
+        "extensionDisplayName": "GitHub Copilot Chat",
+        "id": "github.copilot.editsAgent",
+        "description": "Edit files in your workspace in agent mode",
+        "when": "config.chat.agent.enabled && !chatAgentModeDisallowed",
+        "metadata": {
+          "themeIcon": {
+            "id": "tools"
+          },
+          "hasFollowups": false,
+          "supportIssueReporting": false
+        },
+        "name": "agent",
+        "fullName": "GitHub Copilot",
+        "isDefault": true,
+        "locations": [
+          "panel"
+        ],
+        "modes": [
+          "agent"
+        ],
+        "slashCommands": [],
+        "disambiguation": []
+      },
+      "contentReferences": [],
+      "codeCitations": [],
+      "timestamp": 1747762843678
+    }
+  ],
+  "sessionId": "c099180e-8fb7-4ca8-84ff-f5f1c26a3e4e",
+  "creationDate": 1747762781661,
+  "isImported": false,
+  "lastMessageDate": 1747762843678
+}

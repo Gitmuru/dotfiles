@@ -1,0 +1,8 @@
+{
+    "workbench.colorTheme": "Blueberry Banana",
+    "dart.flutterSdkPath": "/home/muru/Documents/development/flutter",
+    "emulator.emulatorPath": "/home/muru/Android/Sdk/emulator",
+    "emulator.emulatorPathLinux": "/home/muru/Android/Sdk/emulator",
+    "dart.debugExternalPackageLibraries": true,
+    "dart.debugSdkLibraries": false
+}

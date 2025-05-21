@@ -1,0 +1,17 @@
+[org/gtk/settings/file-chooser]
+window-position=(1036, 586)
+window-size=(1124, 822)
+date-format='regular'
+location-mode='path-bar'
+show-hidden=true
+show-size-column=true
+show-type-column=true
+sidebar-width=205
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+
+[org/gnome/nm-applet/eap/a437d49b-8f0b-4b9a-b7ed-d693d3af2dca]
+ignore-ca-cert=false
+ignore-phase2-ca-cert=false

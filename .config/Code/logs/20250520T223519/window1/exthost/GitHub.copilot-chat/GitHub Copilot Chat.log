@@ -1,0 +1,45 @@
+2025-05-20 22:35:25.293 [info] Using the Electron fetcher.
+2025-05-20 22:35:25.293 [info] Initializing Git extension service.
+2025-05-20 22:35:26.428 [info] Successfully activated the vscode.git extension.
+2025-05-20 22:35:26.428 [info] Enablement state of the vscode.git extension: true.
+2025-05-20 22:35:26.428 [info] Successfully registered Git commit message provider.
+2025-05-20 22:35:28.780 [info] Logged in as Gitmuru
+2025-05-20 22:35:29.912 [info] Got Copilot token for Gitmuru
+2025-05-20 22:35:30.027 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-20 22:35:30.027 [info] GitHub.vscode-pull-request-github extension is not yet activated.
+2025-05-20 22:35:30.053 [info] Registering default platform agent...
+2025-05-20 22:35:30.083 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-20 22:35:30.888 [info] Fetched model metadata in 961ms f61c07a2-63e3-43ee-ab9f-e297b316472b
+2025-05-20 22:35:31.189 [info] activationBlocker from 'languageModelAccess' took for 3378ms
+2025-05-20 22:44:37.735 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:44:37.735 [info] request done: requestId: [8ae0d910-d97c-448c-b1d6-c4a3e38bc8d9] model deployment ID: []
+2025-05-20 22:44:46.550 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:44:46.550 [info] request done: requestId: [a0f1e74c-8635-4eae-9cf3-9fdc92740713] model deployment ID: []
+2025-05-20 22:47:56.301 [info] Fetched model metadata in 1106ms 91708d67-9805-4a5d-becc-1de530b78d79
+2025-05-20 22:48:03.765 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:48:03.765 [info] request done: requestId: [28bf59ee-17e8-4948-8332-378cb9862ed7] model deployment ID: []
+2025-05-20 22:48:16.482 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:48:16.482 [info] request done: requestId: [ce75ecf5-c4a9-48f4-9afd-0f1ddb950dd6] model deployment ID: []
+2025-05-20 22:49:21.601 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:49:21.601 [info] request done: requestId: [69604b97-ac5c-4c88-a8d8-ac7dd809ab31] model deployment ID: []
+2025-05-20 22:49:26.122 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:49:26.122 [info] request done: requestId: [8f820cc5-4b40-437d-9da0-ab21575415c1] model deployment ID: []
+2025-05-20 22:53:36.870 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:53:36.871 [info] request done: requestId: [8d770cac-7953-40ee-8413-8d828b6f9e2c] model deployment ID: []
+2025-05-20 22:53:46.728 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:53:46.728 [info] request done: requestId: [24667bd3-86a5-4cf0-97e4-ab77f89b10cf] model deployment ID: []
+2025-05-20 22:56:29.927 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:56:29.927 [info] request done: requestId: [ec95c5c0-96b7-414b-93c1-ccb71e7aad53] model deployment ID: []
+2025-05-20 22:56:30.059 [info] Logged in as Gitmuru
+2025-05-20 22:56:31.264 [info] Got Copilot token for Gitmuru
+2025-05-20 22:56:31.306 [info] copilot token chat_enabled: true, sku: free_educational
+2025-05-20 22:56:31.339 [info] BYOK: Copilot Chat known models list fetched successfully.
+2025-05-20 22:56:44.160 [info] message 0 returned. finish reason: [stop]
+2025-05-20 22:56:44.160 [info] request done: requestId: [2209ccd5-7d6d-403a-928a-03fdf98e6248] model deployment ID: []
+2025-05-20 23:00:09.389 [info] Fetched model metadata in 1453ms be1a4e34-3104-4cda-8de9-8e8270d3aea9
+2025-05-20 23:00:12.687 [info] message 0 returned. finish reason: [stop]
+2025-05-20 23:00:12.687 [info] request done: requestId: [a223a98e-983d-436b-be0a-978960a32a33] model deployment ID: []
+2025-05-20 23:00:21.428 [info] message 0 returned. finish reason: [stop]
+2025-05-20 23:00:21.428 [info] request done: requestId: [72ba1c43-b7f8-4efe-97b2-b0e9ad8a46dc] model deployment ID: []
+2025-05-20 23:07:17.817 [info] message 0 returned. finish reason: [stop]
+2025-05-20 23:07:17.817 [info] request done: requestId: [ae0fe573-d7f6-4843-a400-7088436395b6] model deployment ID: []
